@@ -25,6 +25,7 @@ We then ran another analysis where we used the "COUNTIFS" to count the amount of
 
 ![image](https://user-images.githubusercontent.com/47649575/129999213-e18bdb65-d57e-4849-9ca0-da1a7f19d1c8.png)
 
+---
 
 ### Challenges and Difficulties Encountered
 
@@ -43,3 +44,6 @@ There are no significant increases or decreases as time progress for the failed 
 
 I see that as the goals increase the less likely the Kickstarter would be successful.
 
+### limitations of the dataset
+
+I noticed that there were some very low goal amounts with very high Pledged amounts which may have cause some outliars within the "Outcomes Based on Goals" analysis.
